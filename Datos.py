@@ -15,6 +15,8 @@ apellido = "Medel Carranza"
 edad = 20
 carrera = "Ingeniería en Sistemas"
 universidad = "UAGro"
+coreo  = "arceli@gmail.com"
+telefono = "1234567892"
 
 # Mostrar información
 print("\nInformación del estudiante:")
@@ -23,6 +25,8 @@ print("Apellidos:", apellido)
 print("Edad:", edad)
 print("Carrera:", carrera)
 print("Universidad:", universidad)
+print("coreo:", coreo )
+print("telefono:", telefono)
 
 print("\nProyecto realizado por:")
 print(nombre, apellido)
