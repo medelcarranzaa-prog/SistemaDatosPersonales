@@ -12,7 +12,7 @@ print("========================================")
 # Datos personales
 nombre = "Araceli"
 apellido = "Medel Carranza"
-edad = 20
+edad = 23
 carrera = "Ingeniería en Sistemas"
 universidad = "UAGro"
 coreo  = "arceli@gmail.com"
